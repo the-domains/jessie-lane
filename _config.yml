@@ -1,3 +1,4 @@
+layout_spectrum: 0.5192454920616001
 typography_spectrum: 0.9781289151869714
 color:
   brandStrength: 0.6265483130700886
@@ -10,7 +11,4 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-layout_spectrum: 0.5192454920616001
 name: Jessie Lane
-title: All about Jessie
-description: 'My Photos, My Passions, My Life'
